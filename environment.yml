@@ -1,0 +1,27 @@
+# Environment configuration for Protein ML Project
+name: protein-ml
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - biopython
+  - pytest
+  - sphinx
+  - pip:
+    - nglview
+    - biotite
+    - requests
+    - tqdm
+    - pytest-cov
+    - black
+    - sphinx-rtd-theme
+    - pre-commit
