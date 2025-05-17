@@ -7,15 +7,29 @@ channels:
 dependencies:
   - python=3.9
   - pip
+  # Core data science packages
   - numpy
   - pandas
   - scikit-learn
+  - scipy  # Add scipy which is useful for scientific computing
+  
+  # Biology specific packages
+  - biopython
+  
+  # Visualization
   - matplotlib
   - seaborn
+  
+  # Jupyter environment
   - jupyter
-  - biopython
+  - ipykernel  # Add ipykernel for kernel management
+  - ipywidgets  # Add for interactive widgets in Jupyter
+  
+  # Testing and development
   - pytest
   - sphinx
+  
+  # Add pip-specific packages
   - pip:
     - nglview
     - biotite
