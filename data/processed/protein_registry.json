@@ -1,0 +1,2528 @@
+{
+  "1lyz": {
+    "protein_id": "1lyz",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 129,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1lyz",
+      "description": "real-space refinement of the structure of hen egg-white lysozyme",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase (o-glycosyl), hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:50:42.275149"
+  },
+  "1tim": {
+    "protein_id": "1tim",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 494 > 300"
+    },
+    "function_info": {
+      "id": "1tim",
+      "description": "structure of triose phosphate isomerase from chicken muscle",
+      "resolution": 2.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase, isomerase(intramolecular oxidoreductase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:50:43.587798"
+  },
+  "1crn": {
+    "protein_id": "1crn",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too short: 46 < 50"
+    },
+    "function_info": {
+      "id": "1crn",
+      "description": "water structure of a hydrophobic protein at atomic resolution. pentagon rings of water molecules in crystals of crambin",
+      "resolution": 1.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "plant seed protein, plant protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:50:44.106737"
+  },
+  "1hrd": {
+    "protein_id": "1hrd",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 1347 > 300"
+    },
+    "function_info": {
+      "id": "1hrd",
+      "description": "glutamate dehydrogenase",
+      "resolution": 1.96,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase, nad",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:50:45.659274"
+  },
+  "1gox": {
+    "protein_id": "1gox",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 350 > 300"
+    },
+    "function_info": {
+      "id": "1gox",
+      "description": "refined structure of spinach glycolate oxidase at 2 angstroms resolution",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase (oxygen(a))",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:50:47.088517"
+  },
+  "1cax": {
+    "protein_id": "1cax",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.6 > 2.5"
+    },
+    "function_info": {
+      "id": "1cax",
+      "description": "determination of three crystal structures of canavalin by molecular replacement",
+      "resolution": 2.6,
+      "structure_method": "x-ray diffraction",
+      "keywords": "seed storage protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:50:48.582983"
+  },
+  "2lyz": {
+    "protein_id": "2lyz",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 129,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "2lyz",
+      "description": "real-space refinement of the structure of hen egg-white lysozyme",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase (o-glycosyl), hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:51:54.839529"
+  },
+  "1hen": {
+    "protein_id": "1hen",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.8,
+      "amino_acid_count": 129,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1hen",
+      "description": "structural and thermodynamic analysis of compensating mutations within the core of chicken egg white lysozyme",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase(o-glycosyl)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:51:55.751496"
+  },
+  "3lyz": {
+    "protein_id": "3lyz",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 129,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "3lyz",
+      "description": "real-space refinement of the structure of hen egg-white lysozyme",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase (o-glycosyl), hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:51:56.651527"
+  },
+  "1rbp": {
+    "protein_id": "1rbp",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 175,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1rbp",
+      "description": "crystallographic refinement of human serum retinol binding protein at 2 angstroms resolution",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "retinol transport",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:51:57.605752"
+  },
+  "1ubq": {
+    "protein_id": "1ubq",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.8,
+      "amino_acid_count": 76,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1ubq",
+      "description": "structure of ubiquitin refined at 1.8 angstroms resolution",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "chromosomal protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:51:58.462343"
+  },
+  "1bpi": {
+    "protein_id": "1bpi",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.09,
+      "amino_acid_count": 58,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1bpi",
+      "description": "the structure of bovine pancreatic trypsin inhibitor at 125k: definition of carboxyl-terminal residues glycine-57 and alanine-58",
+      "resolution": 1.09,
+      "structure_method": "x-ray diffraction",
+      "keywords": "proteinase inhibitor (trypsin)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:51:59.363238"
+  },
+  "2ci2": {
+    "protein_id": "2ci2",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 65,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "2ci2",
+      "description": "crystal and molecular structure of the serine proteinase inhibitor ci- 2 from barley seeds",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "proteinase inhibitor (chymotrypsin)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:52:00.202422"
+  },
+  "2cab": {
+    "protein_id": "2cab",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 256,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "2cab",
+      "description": "structure, refinement and function of carbonic anhydrase isozymes. refinement of human carbonic anhydrase i",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydro-lyase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:52:01.154784"
+  },
+  "1cbn": {
+    "protein_id": "1cbn",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too short: 46 < 50"
+    },
+    "function_info": {
+      "id": "1cbn",
+      "description": "atomic resolution (0.83 angstroms) crystal structure of the hydrophobic protein crambin at 130 k",
+      "resolution": 0.83,
+      "structure_method": "x-ray diffraction",
+      "keywords": "plant seed protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:52:01.996237"
+  },
+  "5cha": {
+    "protein_id": "5cha",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 474 > 300"
+    },
+    "function_info": {
+      "id": "5cha",
+      "description": "the refinement and the structure of the dimer of alpha-*chymotrypsin at 1.67-*angstroms resolution",
+      "resolution": 1.67,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase (serine proteinase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:52:03.108777"
+  },
+  "1go3": {
+    "protein_id": "1go3",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 564 > 300"
+    },
+    "function_info": {
+      "id": "1go3",
+      "description": "structure of an archeal homolog of the eukaryotic rna polymerase ii rpb4/rpb7 complex",
+      "resolution": 1.75,
+      "structure_method": "x-ray diffraction",
+      "keywords": "transferase, transferase; transcription; dna-directed rna polymerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:12.276816"
+  },
+  "2dox": {
+    "protein_id": "2dox",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution None > 2.5"
+    },
+    "function_info": {
+      "id": "2dox",
+      "description": "thaumatin-like protein 4",
+      "resolution": null,
+      "structure_method": "theoretical model",
+      "keywords": "all beta protein, thaumatin, homology model",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:13.694736"
+  },
+  "1hxn": {
+    "protein_id": "1hxn",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.8,
+      "amino_acid_count": 210,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1hxn",
+      "description": "1.8 angstroms crystal structure of the c-terminal domain of rabbit serum hemopexin",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "heme, binding protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:14.554179"
+  },
+  "1ldh": {
+    "protein_id": "1ldh",
+    "meets_criteria": false,
+    "error": "Failed to download PDB: 1ldh",
+    "evaluation_date": "2025-05-19T00:54:16.383662"
+  },
+  "1mdr": {
+    "protein_id": "1mdr",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 357 > 300"
+    },
+    "function_info": {
+      "id": "1mdr",
+      "description": "the role of lysine 166 in the mechanism of mandelate racemase from pseudomonas putida: mechanistic and crystallographic evidence for stereospecific alkylation by (r)-alpha-phenylglycidate",
+      "resolution": 2.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "racemase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:17.271917"
+  },
+  "1adc": {
+    "protein_id": "1adc",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.7 > 2.5"
+    },
+    "function_info": {
+      "id": "1adc",
+      "description": "crystallographic studies of isosteric nad analogues bound to alcohol dehydrogenase: specificity and substrate binding in two ternary complexes",
+      "resolution": 2.7,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase (nad(a)-choh(d))",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:18.419102"
+  },
+  "3ccp": {
+    "protein_id": "3ccp",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.2,
+      "amino_acid_count": 293,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "3ccp",
+      "description": "x-ray structures of recombinant yeast cytochrome c peroxidase and three heme-cleft mutants prepared by site-directed mutagenesis",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:19.268880"
+  },
+  "1ycc": {
+    "protein_id": "1ycc",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.23,
+      "amino_acid_count": 107,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1ycc",
+      "description": "high-resolution refinement of yeast iso-1-cytochrome c and comparisons with other eukaryotic cytochromes c",
+      "resolution": 1.23,
+      "structure_method": "x-ray diffraction",
+      "keywords": "electron transport (cytochrome)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:20.056400"
+  },
+  "1fcb": {
+    "protein_id": "1fcb",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 894 > 300"
+    },
+    "function_info": {
+      "id": "1fcb",
+      "description": "molecular structure of flavocytochrome b2 at 2.4 angstroms resolution",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase (ch-oh(d)-cytochrome(a))",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:21.223221"
+  },
+  "1hmt": {
+    "protein_id": "1hmt",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.4,
+      "amino_acid_count": 131,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1hmt",
+      "description": "1.4 angstroms structural studies on human muscle fatty acid binding protein: binding interactions with three saturated and unsaturated c18 fatty acids",
+      "resolution": 1.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lipid-binding protein, lipid binding protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:22.081191"
+  },
+  "1cmt": {
+    "protein_id": "1cmt",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.1,
+      "amino_acid_count": 291,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1cmt",
+      "description": "the role of aspartate-235 in the binding of cations to an artificial cavity at the radical site of cytochrome c peroxidase",
+      "resolution": 2.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase (h2o2(a))",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:22.924528"
+  },
+  "1ask": {
+    "protein_id": "1ask",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.3,
+      "amino_acid_count": 245,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1ask",
+      "description": "nuclear transport factor 2 (ntf2) h66a mutant",
+      "resolution": 2.3,
+      "structure_method": "x-ray diffraction",
+      "keywords": "transport, nuclear transport protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:23.765685"
+  },
+  "1phk": {
+    "protein_id": "1phk",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.2,
+      "amino_acid_count": 277,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1phk",
+      "description": "two structures of the catalytic domain of phosphorylase, kinase: an active protein kinase complexed with nucleotide, substrate-analogue and product",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "glycogen metabolism, transferase, serine/threonine-protein, kinase, atp-binding, calmodulin-binding",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:24.629768"
+  },
+  "1cdk": {
+    "protein_id": "1cdk",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 724 > 300"
+    },
+    "function_info": {
+      "id": "1cdk",
+      "description": "camp-dependent protein kinase catalytic subunit (e.c.2.7.1.37) (protein kinase a) complexed with protein kinase inhibitor peptide fragment 5-24 (pki(5-24) isoelectric variant ca) and mn2+ adenylyl imidodiphosphate (mnamp-pnp) at ph 5.6 and 7c and 4c",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "complex (transferase-inhibitor), transferase-transferase inhibitor complex",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:25.883789"
+  },
+  "1atr": {
+    "protein_id": "1atr",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 383 > 300"
+    },
+    "function_info": {
+      "id": "1atr",
+      "description": "threonine 204 of the chaperone protein hsc70 influences the structure of the active site but is not essential for atp hydrolysis",
+      "resolution": 2.34,
+      "structure_method": "x-ray diffraction",
+      "keywords": "chaperone protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:26.878551"
+  },
+  "1aat": {
+    "protein_id": "1aat",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.8 > 2.5"
+    },
+    "function_info": {
+      "id": "1aat",
+      "description": "oxoglutarate-induced conformational changes in cytosolic aspartate aminotransferase",
+      "resolution": 2.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "aminotransferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:27.640570"
+  },
+  "2aat": {
+    "protein_id": "2aat",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.8 > 2.5"
+    },
+    "function_info": {
+      "id": "2aat",
+      "description": "2.8-angstroms-resolution crystal structure of an active-site mutant of aspartate aminotransferase from escherichia coli",
+      "resolution": 2.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "transferase(aminotransferase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:28.501275"
+  },
+  "1krs": {
+    "protein_id": "1krs",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution None > 2.5"
+    },
+    "function_info": {
+      "id": "1krs",
+      "description": "solution structure of the anticodon binding domain of escherichia coli lysyl-trna synthetase and studies of its interactions with trna-lys",
+      "resolution": null,
+      "structure_method": "solution nmr",
+      "keywords": "aminoacyl-trna synthetase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:29.248061"
+  },
+  "1ppo": {
+    "protein_id": "1ppo",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.8,
+      "amino_acid_count": 216,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1ppo",
+      "description": "determination of the structure of papaya protease omega",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase(thiol protease)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:30.085319"
+  },
+  "1pla": {
+    "protein_id": "1pla",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution None > 2.5"
+    },
+    "function_info": {
+      "id": "1pla",
+      "description": "high-resolution solution structure of reduced parsley plastocyanin",
+      "resolution": null,
+      "structure_method": "solution nmr",
+      "keywords": "electron transport protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:32.458996"
+  },
+  "1cna": {
+    "protein_id": "1cna",
+    "meets_criteria": false,
+    "error": "Failed to download PDB: 1cna",
+    "evaluation_date": "2025-05-19T00:54:34.350044"
+  },
+  "1rnt": {
+    "protein_id": "1rnt",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.9,
+      "amino_acid_count": 104,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1rnt",
+      "description": "restrained least-squares refinement of the crystal structure of the ribonuclease t1(asterisk)2(prime)-guanylic acid complex at 1.9 angstroms resolution",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase(endoribonuclease)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:35.129890"
+  },
+  "1rnb": {
+    "protein_id": "1rnb",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.9,
+      "amino_acid_count": 111,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1rnb",
+      "description": "crystal structure of a barnase-d(*gp*c) complex at 1.9 angstroms resolution",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "endonuclease",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:36.079372"
+  },
+  "1ctn": {
+    "protein_id": "1ctn",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 538 > 300"
+    },
+    "function_info": {
+      "id": "1ctn",
+      "description": "crystal structure of a bacterial chitinase at 2.3 angstroms resolution",
+      "resolution": 2.3,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase (oxo-acid)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:37.229419"
+  },
+  "1try": {
+    "protein_id": "1try",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.55,
+      "amino_acid_count": 224,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1try",
+      "description": "structure of inhibited trypsin from fusarium oxysporum at 1.55 angstroms",
+      "resolution": 1.55,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase (serine proteinase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:38.019380"
+  },
+  "1ela": {
+    "protein_id": "1ela",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 240,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1ela",
+      "description": "analogous inhibitors of elastase do not always bind analogously",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase-hydrolase inhibitor complex, serine proteinase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:38.815905"
+  },
+  "1ppn": {
+    "protein_id": "1ppn",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.6,
+      "amino_acid_count": 212,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1ppn",
+      "description": "structure of monoclinic papain at 1.60 angstroms resolution",
+      "resolution": 1.6,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase(sulfhydryl proteinase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:39.665409"
+  },
+  "1ca2": {
+    "protein_id": "1ca2",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 256,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1ca2",
+      "description": "refined structure of human carbonic anhydrase ii at 2.0 angstroms resolution",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase(oxo-acid)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:40.605660"
+  },
+  "1ca3": {
+    "protein_id": "1ca3",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.3,
+      "amino_acid_count": 255,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1ca3",
+      "description": "unexpected ph-dependent conformation of his-64, the proton shuttle of carbonic anhydrase ii.",
+      "resolution": 2.3,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase(oxo-acid)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:41.485958"
+  },
+  "1eno": {
+    "protein_id": "1eno",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.9,
+      "amino_acid_count": 297,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1eno",
+      "description": "brassica napus enoyl acp reductase/nad binary complex at ph 8.0 and room temperature",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase, plant lipid biosynthesis",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:42.506628"
+  },
+  "1pyk": {
+    "protein_id": "1pyk",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.6 > 2.5"
+    },
+    "function_info": {
+      "id": "1pyk",
+      "description": "crystal structure of cat muscle pyruvate kinase at a resolution of 2.6 angstroms",
+      "resolution": 2.6,
+      "structure_method": "x-ray diffraction",
+      "keywords": "transferase(phospho, alcohol acceptor)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:43.168867"
+  },
+  "1ald": {
+    "protein_id": "1ald",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 363 > 300"
+    },
+    "function_info": {
+      "id": "1ald",
+      "description": "activity and specificity of human aldolases",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase (aldehyde)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:44.125011"
+  },
+  "1fba": {
+    "protein_id": "1fba",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 1440 > 300"
+    },
+    "function_info": {
+      "id": "1fba",
+      "description": "the crystal structure of fructose-1,6-bisphosphate aldolase from drosophila melanogaster at 2.5 angstroms resolution",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase(aldehyde)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:45.733684"
+  },
+  "1tpi": {
+    "protein_id": "1tpi",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution None > 2.5"
+    },
+    "function_info": {
+      "id": "1tpi",
+      "description": "the transition of bovine trypsinogen to a trypsin-like state upon strong ligand binding. the refined crystal structures of the bovine trypsinogen-pancreatic trypsin inhibitor complex and of its ternary complex with ile-val at 1.9 angstroms resolution",
+      "resolution": null,
+      "structure_method": "x-ray diffraction",
+      "keywords": "complex (proteinase/inhibitor)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:46.919033"
+  },
+  "1pgk": {
+    "protein_id": "1pgk",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution None > 2.5"
+    },
+    "function_info": {
+      "id": "1pgk",
+      "description": "structure of yeast phosphoglycerate kinase",
+      "resolution": null,
+      "structure_method": "x-ray diffraction",
+      "keywords": "phosphotransferase (carboxyl acceptor)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:54:47.935635"
+  },
+  "1u8s": {
+    "protein_id": "1u8s",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 343 > 300"
+    },
+    "function_info": {
+      "id": "1u8s",
+      "description": "crystal structure of putative glycine cleavage system transcriptional repressor",
+      "resolution": 2.45,
+      "structure_method": "x-ray diffraction",
+      "keywords": "structural genomics, protein structure initiative (psi), domain swapping, act domain, glycine cleavage system, transcription",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:32.778951"
+  },
+  "1s3b": {
+    "protein_id": "1s3b",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 993 > 300"
+    },
+    "function_info": {
+      "id": "1s3b",
+      "description": "crystal structure of maob in complex with n-methyl-n-propargyl-1(r)- aminoindan",
+      "resolution": 1.65,
+      "structure_method": "x-ray diffraction",
+      "keywords": "human monoamine oxidase, inhibitor binding, rasagiline, enantioselectivity, flavin, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:33.922038"
+  },
+  "1h6v": {
+    "protein_id": "1h6v",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 3.0 > 2.5"
+    },
+    "function_info": {
+      "id": "1h6v",
+      "description": "mammalian thioredoxin reductase",
+      "resolution": 3.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase, pyridine nucleotide-disulfide oxidoreductase, flavoprotein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:35.674573"
+  },
+  "2acy": {
+    "protein_id": "2acy",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.8,
+      "amino_acid_count": 98,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "2acy",
+      "description": "acyl-phosphatase (common type) from bovine testis",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "acylphosphatase, phosphoric monoester hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:36.329091"
+  },
+  "1lbu": {
+    "protein_id": "1lbu",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.8,
+      "amino_acid_count": 213,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1lbu",
+      "description": "hydrolase metallo (zn) dd-peptidase",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase, nuclear receptor, carboxypeptidase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:36.964811"
+  },
+  "1f8a": {
+    "protein_id": "1f8a",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.84,
+      "amino_acid_count": 160,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1f8a",
+      "description": "structural basis for the phosphoserine-proline recognition by group iv ww domains",
+      "resolution": 1.84,
+      "structure_method": "x-ray diffraction",
+      "keywords": "peptidyl-proline isomerase, ww domain, phosphoserine binding, isomerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:37.632560"
+  },
+  "1sez": {
+    "protein_id": "1sez",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.9 > 2.5"
+    },
+    "function_info": {
+      "id": "1sez",
+      "description": "crystal structure of protoporphyrinogen ix oxidase",
+      "resolution": 2.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "fad-binding, para-hydroxy-benzoate-hydroxylase fold (phbh-fold), monotopic membrane-binding domain, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:38.687516"
+  },
+  "2cmd": {
+    "protein_id": "2cmd",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 312 > 300"
+    },
+    "function_info": {
+      "id": "2cmd",
+      "description": "the crystal structure of e.coli malate dehydrogenase: a complex of the apoenzyme and citrate at 1.87 angstroms resolution",
+      "resolution": 1.87,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase(nad(a)-choh(d))",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:39.704973"
+  },
+  "1t2d": {
+    "protein_id": "1t2d",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 315 > 300"
+    },
+    "function_info": {
+      "id": "1t2d",
+      "description": "plasmodium falciparum lactate dehydrogenase complexed with nad+ and oxalate",
+      "resolution": 1.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "ternary complex, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:40.636125"
+  },
+  "1hdc": {
+    "protein_id": "1hdc",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 1012 > 300"
+    },
+    "function_info": {
+      "id": "1hdc",
+      "description": "mechanism of inhibition of 3alpha,20beta-hydroxysteroid dehydrogenase by a licorice-derived steroidal inhibitor",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:41.691644"
+  },
+  "1q7b": {
+    "protein_id": "1q7b",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 970 > 300"
+    },
+    "function_info": {
+      "id": "1q7b",
+      "description": "the structure of betaketoacyl-[acp] reductase from e. coli in complex with nadp+",
+      "resolution": 2.05,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxoacyl reductase; nadp+; crystal structure, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:42.777550"
+  },
+  "1wxd": {
+    "protein_id": "1wxd",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 526 > 300"
+    },
+    "function_info": {
+      "id": "1wxd",
+      "description": "crystal structure of shikimate 5-dehydrogenase (aroe) from thermus thermophilus hb8",
+      "resolution": 2.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "shikimate, dimer, structural genomics, riken structural genomics/proteomics initiative, rsgi, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:43.735818"
+  },
+  "1c7d": {
+    "protein_id": "1c7d",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 576 > 300"
+    },
+    "function_info": {
+      "id": "1c7d",
+      "description": "deoxy rhb1.2 (recombinant hemoglobin)",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "heme, oxygen delivery vehicle, blood substitute, oxygen storage- transport complex",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:44.549910"
+  },
+  "2b5e": {
+    "protein_id": "2b5e",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 483 > 300"
+    },
+    "function_info": {
+      "id": "2b5e",
+      "description": "crystal structure of yeast protein disulfide isomerase",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "protein disulfide isomerase, isomerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:45.471477"
+  },
+  "1r37": {
+    "protein_id": "1r37",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 694 > 300"
+    },
+    "function_info": {
+      "id": "1r37",
+      "description": "alcohol dehydrogenase from sulfolobus solfataricus complexed with nad(h) and 2-ethoxyethanol",
+      "resolution": 2.3,
+      "structure_method": "x-ray diffraction",
+      "keywords": "archaeon, zinc, nad(h) dependent, holoform, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:46.448741"
+  },
+  "1mor": {
+    "protein_id": "1mor",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 366 > 300"
+    },
+    "function_info": {
+      "id": "1mor",
+      "description": "isomerase domain of glucosamine 6-phosphate synthase complexed with glucose 6-phosphate",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "glutamine amidotransferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:47.169943"
+  },
+  "1hdy": {
+    "protein_id": "1hdy",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 748 > 300"
+    },
+    "function_info": {
+      "id": "1hdy",
+      "description": "three-dimensional structures of three human alcohol dehydrogenase variants: correlations with their functional differences",
+      "resolution": 2.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase(nad(a)-choh(d))",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:48.166736"
+  },
+  "1ged": {
+    "protein_id": "1ged",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 399 > 300"
+    },
+    "function_info": {
+      "id": "1ged",
+      "description": "a positive charge route for the access of nadh to heme formed in the distal heme pocket of cytochrome p450nor",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "cytochrome p450nor, nitric oxide reductase, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:48.941697"
+  },
+  "1uzn": {
+    "protein_id": "1uzn",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 465 > 300"
+    },
+    "function_info": {
+      "id": "1uzn",
+      "description": "maba from mycobacterium tuberculosis",
+      "resolution": 1.91,
+      "structure_method": "x-ray diffraction",
+      "keywords": "beta-ketoacyl reductase, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:49.798248"
+  },
+  "1dhr": {
+    "protein_id": "1dhr",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.3,
+      "amino_acid_count": 236,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1dhr",
+      "description": "crystal structure of rat liver dihydropteridine reductase",
+      "resolution": 2.3,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase(acting on nadh or nadph)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:50.718231"
+  },
+  "1hck": {
+    "protein_id": "1hck",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.9,
+      "amino_acid_count": 294,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1hck",
+      "description": "human cyclin-dependent kinase 2",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "transferase, serine/threonine protein kinase, atp-binding, cell cycle, cell division, mitosis, phosphorylation, protein kinase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:51.432287"
+  },
+  "1o6l": {
+    "protein_id": "1o6l",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 326 > 300"
+    },
+    "function_info": {
+      "id": "1o6l",
+      "description": "crystal structure of an activated akt/protein kinase b (pkb-pif chimera) ternary complex with amp-pnp and gsk3 peptide",
+      "resolution": 1.6,
+      "structure_method": "x-ray diffraction",
+      "keywords": "protein kinase, transferase, serine/threonine-protein kinase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:52.352924"
+  },
+  "1lpg": {
+    "protein_id": "1lpg",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 287,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1lpg",
+      "description": "crystal structure of fxa in complex with 79.",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "protein inhibitor complex, blood coagulation factor, serine proteinase, hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:53.172504"
+  },
+  "1byg": {
+    "protein_id": "1byg",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.4,
+      "amino_acid_count": 246,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1byg",
+      "description": "kinase domain of human c-terminal src kinase (csk) in complex with inhibitor staurosporine",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "protein kinase, c-terminal src kinase, phosphorylation, staurosporine, transferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:53.968700"
+  },
+  "1vie": {
+    "protein_id": "1vie",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.7,
+      "amino_acid_count": 60,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1vie",
+      "description": "structure of dihydrofolate reductase",
+      "resolution": 1.7,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase, nadp, trimethoprim resistance, methotrexate resistance, one-carbon metabolism, plasmid",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:54.578728"
+  },
+  "1a49": {
+    "protein_id": "1a49",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 4152 > 300"
+    },
+    "function_info": {
+      "id": "1a49",
+      "description": "bis mg-atp-k-oxalate complex of pyruvate kinase",
+      "resolution": 2.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "transferase, pyruvate kinase, rabbit muscle, domain movement, potassium binding",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:56.827339"
+  },
+  "1e2m": {
+    "protein_id": "1e2m",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 615 > 300"
+    },
+    "function_info": {
+      "id": "1e2m",
+      "description": "hpt + hmtt",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "transferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:57.696786"
+  },
+  "1w0k": {
+    "protein_id": "1w0k",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.85 > 2.5"
+    },
+    "function_info": {
+      "id": "1w0k",
+      "description": "adp inhibited bovine f1-atpase",
+      "resolution": 2.85,
+      "structure_method": "x-ray diffraction",
+      "keywords": "atp phosphorylase, atp phosphorylase (h+ transporting), atp synthase, f1fo atp synthase, f1-atpase, hydrolase, atp synthesis, atp-binding",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:58:59.529253"
+  },
+  "1tki": {
+    "protein_id": "1tki",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 642 > 300"
+    },
+    "function_info": {
+      "id": "1tki",
+      "description": "autoinhibited serine kinase domain of the giant muscle protein titin",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "serine kinase, titin, muscle, autoinhibition",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:00.659573"
+  },
+  "1f3m": {
+    "protein_id": "1f3m",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 712 > 300"
+    },
+    "function_info": {
+      "id": "1f3m",
+      "description": "crystal structure of human serine/threonine kinase pak1",
+      "resolution": 2.3,
+      "structure_method": "x-ray diffraction",
+      "keywords": "kinase domain, autoinhibitory fragment, homodimer, transferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:01.776733"
+  },
+  "1a82": {
+    "protein_id": "1a82",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.8,
+      "amino_acid_count": 224,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1a82",
+      "description": "dethiobiotin synthetase from escherichia coli, complex with substrates atp and diaminopelargonic acid",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "phosphoryl transfer, biotin biosynthesis, ligase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:02.545710"
+  },
+  "1ca1": {
+    "protein_id": "1ca1",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 370 > 300"
+    },
+    "function_info": {
+      "id": "1ca1",
+      "description": "alpha-toxin from clostridium perfringens",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "zinc phospholipase c, gangrene determinant, c2 domain, ca and membrane binding, hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:03.397687"
+  },
+  "1a1c": {
+    "protein_id": "1a1c",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.4,
+      "amino_acid_count": 211,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1a1c",
+      "description": "c-src (sh2 domain) complexed with ace-phosphotyr-glu-(n-me(-(ch2)3- cyclopentyl))",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "complex (transferase-peptide), complex (transferase-peptide) complex",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:04.251434"
+  },
+  "1o5k": {
+    "protein_id": "1o5k",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 588 > 300"
+    },
+    "function_info": {
+      "id": "1o5k",
+      "description": "crystal structure of dihydrodipicolinate synthase (tm1521) from thermotoga maritima at 1.80 a resolution",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "tm1521, dihydrodipicolinate synthase, structural genomics, jcsg, psi, protein structure initiative, joint center for structural genomics, lyase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:05.205758"
+  },
+  "1qpb": {
+    "protein_id": "1qpb",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 1110 > 300"
+    },
+    "function_info": {
+      "id": "1qpb",
+      "description": "pyruvate decarboyxlase from yeast (form b) complexed with pyruvamide",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "thiamine pyruvate, pyruvamide, lyase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:06.417651"
+  },
+  "1hka": {
+    "protein_id": "1hka",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.5,
+      "amino_acid_count": 158,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1hka",
+      "description": "6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase",
+      "resolution": 1.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "pyrophosphoryl transfer, pyrophosphokinase, kinase, folate, 6- hydroxymethyl-7, 8-dihydropterin, transferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:07.111482"
+  },
+  "1h74": {
+    "protein_id": "1h74",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 1184 > 300"
+    },
+    "function_info": {
+      "id": "1h74",
+      "description": "crystal structure of homoserine kinase complexed with ile",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "transferase, kinase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:08.259694"
+  },
+  "1via": {
+    "protein_id": "1via",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 311 > 300"
+    },
+    "function_info": {
+      "id": "1via",
+      "description": "crystal structure of shikimate kinase",
+      "resolution": 1.57,
+      "structure_method": "x-ray diffraction",
+      "keywords": "structural genomics, transferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:08.972319"
+  },
+  "1zin": {
+    "protein_id": "1zin",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.6,
+      "amino_acid_count": 217,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1zin",
+      "description": "adenylate kinase with bound ap5a",
+      "resolution": 1.6,
+      "structure_method": "x-ray diffraction",
+      "keywords": "phosphotransferase, zinc finger",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:09.846038"
+  },
+  "1d2a": {
+    "protein_id": "1d2a",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 312 > 300"
+    },
+    "function_info": {
+      "id": "1d2a",
+      "description": "crystal structure of a yeast low molecular weight protein tyrosine phosphatase (ltp1) complexed with the activator adenine",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "beta-alpha-beta, tyrosine phosphatase, ltp1, hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:10.589726"
+  },
+  "1ldm": {
+    "protein_id": "1ldm",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 329 > 300"
+    },
+    "function_info": {
+      "id": "1ldm",
+      "description": "refined crystal structure of dogfish m4 apo-lactate dehydrogenase",
+      "resolution": 2.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:11.334610"
+  },
+  "1thf": {
+    "protein_id": "1thf",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.45,
+      "amino_acid_count": 253,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1thf",
+      "description": "cyclase subunit of imidazoleglycerolphosphate synthase from thermotoga maritima",
+      "resolution": 1.45,
+      "structure_method": "x-ray diffraction",
+      "keywords": "thermophile, tim-barrel, histidine biosynthesis, lyase, phosphate- binding sites",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:12.212549"
+  },
+  "1n6r": {
+    "protein_id": "1n6r",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.55,
+      "amino_acid_count": 167,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1n6r",
+      "description": "crystal structure of human rab5a a30l mutant complex with gppnhp",
+      "resolution": 1.55,
+      "structure_method": "x-ray diffraction",
+      "keywords": "rab, gtpase, protein transport",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:12.937044"
+  },
+  "1c8y": {
+    "protein_id": "1c8y",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.0,
+      "amino_acid_count": 265,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1c8y",
+      "description": "endo-beta-n-acetylglucosaminidase h, d130a mutant",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "(beta/alpha)8-barrel, hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:13.725442"
+  },
+  "1d4o": {
+    "protein_id": "1d4o",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.21,
+      "amino_acid_count": 177,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1d4o",
+      "description": "crystal structure of transhydrogenase domain iii at 1.2 angstroms resolution",
+      "resolution": 1.21,
+      "structure_method": "x-ray diffraction",
+      "keywords": "nucleotide-binding fold, protein-nadp(h) complex, inverted binding of nadp(h), oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:14.429851"
+  },
+  "1dqr": {
+    "protein_id": "1dqr",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 1110 > 300"
+    },
+    "function_info": {
+      "id": "1dqr",
+      "description": "crystal structure of rabbit phosphoglucose isomerase, a glycolytic enzyme that moonlights as neuroleukin, autocrine motility factor, and differentiation mediator",
+      "resolution": 2.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "alpha-beta sandwich domains, anti-parallel beta sheet, parallel beta sheet, isomerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:15.685360"
+  },
+  "1m4j": {
+    "protein_id": "1m4j",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.6,
+      "amino_acid_count": 266,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1m4j",
+      "description": "crystal structure of the n-terminal adf-h domain of mouse twinfilin isoform-1",
+      "resolution": 1.6,
+      "structure_method": "x-ray diffraction",
+      "keywords": "mixed beta-sheet, pair of alpha-helices, structural protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:16.446882"
+  },
+  "1u4s": {
+    "protein_id": "1u4s",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 307 > 300"
+    },
+    "function_info": {
+      "id": "1u4s",
+      "description": "plasmodium falciparum lactate dehydrogenase complexed with 2,6- naphthalenedisulphonic acid",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "protein-ligand complex, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:17.220774"
+  },
+  "1vj8": {
+    "protein_id": "1vj8",
+    "meets_criteria": false,
+    "error": "Failed to download PDB: 1vj8",
+    "evaluation_date": "2025-05-19T00:59:19.051183"
+  },
+  "1x81": {
+    "protein_id": "1x81",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 3.5 > 2.5"
+    },
+    "function_info": {
+      "id": "1x81",
+      "description": "farnesyl transferase structure of jansen compound",
+      "resolution": 3.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "fanesyltransferase, transferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:20.098432"
+  },
+  "2fbp": {
+    "protein_id": "2fbp",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.8 > 2.5"
+    },
+    "function_info": {
+      "id": "2fbp",
+      "description": "structure refinement of fructose-1,6-bisphosphatase and its fructose 2,6-bisphosphate complex at 2.8 angstroms resolution",
+      "resolution": 2.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase (phosphoric monoester)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:21.127593"
+  },
+  "1k6m": {
+    "protein_id": "1k6m",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 864 > 300"
+    },
+    "function_info": {
+      "id": "1k6m",
+      "description": "crystal structure of human liver 6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "tissue differentiation, isoform, domain stability, transferase, hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:22.248503"
+  },
+  "1tip": {
+    "protein_id": "1tip",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 380 > 300"
+    },
+    "function_info": {
+      "id": "1tip",
+      "description": "the bisphosphatase domain of the bifunctional rat liver 6- phosphofructo-2-kinase/fructose-2,6-bisphosphatase",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "multifunctional enzyme, transferase, kinase, atp-binding, phosphorylation, alternative splicing, multigene family, hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:23.113447"
+  },
+  "1s9d": {
+    "protein_id": "1s9d",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 347 > 300"
+    },
+    "function_info": {
+      "id": "1s9d",
+      "description": "arf1[delta 1-17]-gdp-mg in complex with brefeldin a and a sec7 domain",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "protein transport/exchange factor, protein transport-exchange factor complex",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:24.111643"
+  },
+  "1hof": {
+    "protein_id": "1hof",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution None > 2.5"
+    },
+    "function_info": {
+      "id": "1hof",
+      "description": "nmr structure of t3-i2, a 32 residue peptide from the alpha-2a adrenergic receptor",
+      "resolution": null,
+      "structure_method": "solution nmr",
+      "keywords": "helix-linker-helix, membrane protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:25.229899"
+  },
+  "4tim": {
+    "protein_id": "4tim",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 498 > 300"
+    },
+    "function_info": {
+      "id": "4tim",
+      "description": "crystallographic and molecular modeling studies on trypanosomal triosephosphate isomerase: a critical assessment of the predicted and observed structures of the complex with 2-phosphoglycerate",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase(intramolecular oxidoreductase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:26.122048"
+  },
+  "2tpi": {
+    "protein_id": "2tpi",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.1,
+      "amino_acid_count": 277,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "2tpi",
+      "description": "on the disordered activation domain in trypsinogen. chemical labelling and low-temperature crystallography",
+      "resolution": 2.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "complex (proteinase-inhibitor), hydrolase-hydrolase inhibitor complex",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:27.006741"
+  },
+  "3tms": {
+    "protein_id": "3tms",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.1,
+      "amino_acid_count": 264,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "3tms",
+      "description": "plastic adaptation toward mutations in proteins: structural comparison of thymidylate synthases",
+      "resolution": 2.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "transferase (methyltransferase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:27.770265"
+  },
+  "1y7t": {
+    "protein_id": "1y7t",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 654 > 300"
+    },
+    "function_info": {
+      "id": "1y7t",
+      "description": "crystal structure of nad(h)-depenent malate dehydrogenase complexed with nadph",
+      "resolution": 1.65,
+      "structure_method": "x-ray diffraction",
+      "keywords": "nad-dependent-mdh-nadph complex, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:28.810159"
+  },
+  "1b3a": {
+    "protein_id": "1b3a",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.6,
+      "amino_acid_count": 134,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1b3a",
+      "description": "total chemical synthesis and high-resolution crystal structure of the potent anti-hiv protein aop-rantes",
+      "resolution": 1.6,
+      "structure_method": "x-ray diffraction",
+      "keywords": "chemical protein synthesis, chemokine, hiv-1, rantes, anti-hiv protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:29.525258"
+  },
+  "1a5z": {
+    "protein_id": "1a5z",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 312 > 300"
+    },
+    "function_info": {
+      "id": "1a5z",
+      "description": "lactate dehydrogenase from thermotoga maritima (tmldh)",
+      "resolution": 2.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase, glycolysis, hyperthermophiles, thermotoga maritima, protein stability",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:30.306536"
+  },
+  "1gg5": {
+    "protein_id": "1gg5",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 1092 > 300"
+    },
+    "function_info": {
+      "id": "1gg5",
+      "description": "crystal structure of a complex of human nad[p]h-quinone oxidoreductase and a chemotherapeutic drug (e09) at 2.5 a resolution",
+      "resolution": 2.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "flavoprotein, rossmann fold, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:31.441286"
+  },
+  "1nsy": {
+    "protein_id": "1nsy",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 542 > 300"
+    },
+    "function_info": {
+      "id": "1nsy",
+      "description": "crystal structure of nh3-dependent nad+ synthetase from bacillus subtilis",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase, amidotransferase, nh3 dependent, atp pyrophosphatase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:32.624733"
+  },
+  "1tre": {
+    "protein_id": "1tre",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.6 > 2.5"
+    },
+    "function_info": {
+      "id": "1tre",
+      "description": "the structure of triosephosphate isomerase from escherichia coli determined at 2.6 angstrom resolution",
+      "resolution": 2.6,
+      "structure_method": "x-ray diffraction",
+      "keywords": "intramolecular oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:33.494611"
+  },
+  "1j49": {
+    "protein_id": "1j49",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 664 > 300"
+    },
+    "function_info": {
+      "id": "1j49",
+      "description": "insights into domain closure, substrate specificity and catalysis of d-lactate dehydrogenase from lactobacillus bulgaricus",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "nad-dependent dehydrogenase, last step of glycolysis under anaerobic conditions, reversible interconversion of pyruvate into d-lactate, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:34.581901"
+  },
+  "1ios": {
+    "protein_id": "1ios",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.76,
+      "amino_acid_count": 129,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1ios",
+      "description": "stabilization of hen egg white lysozyme by a cavity-filling mutation",
+      "resolution": 1.76,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase, glycosidase, bacteriolytic enzyme",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T00:59:35.322024"
+  },
+  "1ca4": {
+    "protein_id": "1ca4",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 1008 > 300"
+    },
+    "function_info": {
+      "id": "1ca4",
+      "description": "structure of tnf receptor associated factor 2 (traf2)",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "tnf signaling, traf, adapter protein, cell survival",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:29.442165"
+  },
+  "1ca7": {
+    "protein_id": "1ca7",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 342 > 300"
+    },
+    "function_info": {
+      "id": "1ca7",
+      "description": "macrophage migration inhibitory factor (mif) with hydroxphenylpyruvate",
+      "resolution": 2.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "protein hormone, cytokine, enzyme",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:30.327877"
+  },
+  "1cah": {
+    "protein_id": "1cah",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.88,
+      "amino_acid_count": 258,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1cah",
+      "description": "structure of cobalt carbonic anhydrase complexed with bicarbonate",
+      "resolution": 1.88,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase(oxo-acid)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:31.104654"
+  },
+  "1can": {
+    "protein_id": "1can",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.9,
+      "amino_acid_count": 259,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1can",
+      "description": "crystallographic studies of the binding of protonated and unprotonated inhibitors to carbonic anhydrase using hydrogen sulphide and nitrate anions",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase(oxo-acid)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:31.859520"
+  },
+  "1caz": {
+    "protein_id": "1caz",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.9,
+      "amino_acid_count": 258,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1caz",
+      "description": "wild-type and e106q mutant carbonic anhydrase complexed with acetate",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase(oxo-acid)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:32.972145"
+  },
+  "1cnc": {
+    "protein_id": "1cnc",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.2,
+      "amino_acid_count": 255,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1cnc",
+      "description": "compensatory plastic effects in the redesign of protein-zinc binding sites",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase(oxo-acid)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:33.735640"
+  },
+  "1tri": {
+    "protein_id": "1tri",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 2.4,
+      "amino_acid_count": 239,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1tri",
+      "description": "the crystal structure of an engineered monomeric triosephosphate isomerase, monotim: the correct modelling of an eight-residue loop",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase(intramolecular oxidoreductase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:34.406301"
+  },
+  "2tim": {
+    "protein_id": "2tim",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 498 > 300"
+    },
+    "function_info": {
+      "id": "2tim",
+      "description": "the crystal structure of the \"open\" and the \"closed\" conformation of the flexible loop of trypanosomal triosephosphate isomerase",
+      "resolution": 1.83,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase(intramolecular oxidoreductse)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:35.690646"
+  },
+  "3tim": {
+    "protein_id": "3tim",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.8 > 2.5"
+    },
+    "function_info": {
+      "id": "3tim",
+      "description": "the crystal structure of the \"open\" and the \"closed\" conformation of the flexible loop of trypanosomal triosephosphate isomerase",
+      "resolution": 2.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase(intramolecular oxidoreductase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:36.575670"
+  },
+  "5tim": {
+    "protein_id": "5tim",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 498 > 300"
+    },
+    "function_info": {
+      "id": "5tim",
+      "description": "refined 1.83 angstroms structure of trypanosomal triosephosphate isomerase, crystallized in the presence of 2.4 m-ammonium sulphate. a comparison with the structure of the trypanosomal triosephosphate isomerase-glycerol-3-phosphate complex",
+      "resolution": 1.83,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase(intramolecular oxidoreductase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:37.546910"
+  },
+  "6tim": {
+    "protein_id": "6tim",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 498 > 300"
+    },
+    "function_info": {
+      "id": "6tim",
+      "description": "the adaptability of the active site of trypanosomal triosephosphate isomerase as observed in the crystal structures of three different complexes",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase(intramolecular oxidoreductase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:38.423685"
+  },
+  "7tim": {
+    "protein_id": "7tim",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 494 > 300"
+    },
+    "function_info": {
+      "id": "7tim",
+      "description": "structure of the triosephosphate isomerase-phosphoglycolohydroxamate complex: an analogue of the intermediate on the reaction pathway",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "intramolecular oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:39.396340"
+  },
+  "8tim": {
+    "protein_id": "8tim",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 494 > 300"
+    },
+    "function_info": {
+      "id": "8tim",
+      "description": "triose phosphate isomerase",
+      "resolution": 2.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase, glycolysis, gluconeogenesis, fatty acid biosynthesis",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:40.279623"
+  },
+  "1tph": {
+    "protein_id": "1tph",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 490 > 300"
+    },
+    "function_info": {
+      "id": "1tph",
+      "description": "1.8 angstroms crystal structure of wild type chicken triosephosphate isomerase-phosphoglycolohydroxamate complex",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "triosephosphate isomerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:41.263579"
+  },
+  "1pgi": {
+    "protein_id": "1pgi",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 3.5 > 2.5"
+    },
+    "function_info": {
+      "id": "1pgi",
+      "description": "crystallographic structure analysis of glucose 6-phosphate isomerase at 3.5 angstroms resolution",
+      "resolution": 3.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase(intramolecular aldose/ketose), isomerase(intramolecular aldose-ketose) complex",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:41.943655"
+  },
+  "2pgi": {
+    "protein_id": "2pgi",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 442 > 300"
+    },
+    "function_info": {
+      "id": "2pgi",
+      "description": "the crystal structure of phosphoglucose isomerase-an enzyme with autocrine motility factor activity in tumor cells",
+      "resolution": 2.3,
+      "structure_method": "x-ray diffraction",
+      "keywords": "phosphoglucose isomerase, autocrinefactor, neuroleukin, motility, glycolysis, isomerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:42.841261"
+  },
+  "3pgi": {
+    "protein_id": "3pgi",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 330 > 300"
+    },
+    "function_info": {
+      "id": "3pgi",
+      "description": "endothiapepsin in complex with a fragment",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrolase-hydrolase inhibitor complex",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:43.745396"
+  },
+  "1dxo": {
+    "protein_id": "1dxo",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 1092 > 300"
+    },
+    "function_info": {
+      "id": "1dxo",
+      "description": "crystal structure of human nad[p]h-quinone oxidoreductase co with 2,3, 5,6,tetramethyl-p-benzoquinone (duroquinone) at 2.5 angstrom resolution",
+      "resolution": 2.5,
+      "structure_method": "x-ray diffraction",
+      "keywords": "flavoprotein, rossmann fold, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:44.878284"
+  },
+  "1iri": {
+    "protein_id": "1iri",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 2228 > 300"
+    },
+    "function_info": {
+      "id": "1iri",
+      "description": "crystal structure of human autocrine motility factor complexed with an inhibitor",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "cytokine, isomerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:46.388324"
+  },
+  "1tml": {
+    "protein_id": "1tml",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.8,
+      "amino_acid_count": 286,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1tml",
+      "description": "crystal structure of the catalytic domain of a thermophilic endocellulase",
+      "resolution": 1.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "beta-amylase, endocellulase, catalytic domain",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:47.131451"
+  },
+  "1b9b": {
+    "protein_id": "1b9b",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.85 > 2.5"
+    },
+    "function_info": {
+      "id": "1b9b",
+      "description": "triosephosphate isomerase of thermotoga maritima",
+      "resolution": 2.85,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase, thermophilic, thermotoga maritima",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:48.126399"
+  },
+  "1btm": {
+    "protein_id": "1btm",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.8 > 2.5"
+    },
+    "function_info": {
+      "id": "1btm",
+      "description": "triosephosphate isomerase (tim) complexed with 2-phosphoglycolic acid",
+      "resolution": 2.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:48.982215"
+  },
+  "1i0z": {
+    "protein_id": "1i0z",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 664 > 300"
+    },
+    "function_info": {
+      "id": "1i0z",
+      "description": "human heart l-lactate dehydrogenase h chain, ternary complex with nadh and oxamate",
+      "resolution": 2.1,
+      "structure_method": "x-ray diffraction",
+      "keywords": "dehydrogenase, rossmann fold, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:50.015565"
+  },
+  "1req": {
+    "protein_id": "1req",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 2695 > 300"
+    },
+    "function_info": {
+      "id": "1req",
+      "description": "methylmalonyl-coa mutase",
+      "resolution": 2.0,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase, mutase, intramolecular transferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:51.593563"
+  },
+  "1ydv": {
+    "protein_id": "1ydv",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 492 > 300"
+    },
+    "function_info": {
+      "id": "1ydv",
+      "description": "triosephosphate isomerase (tim)",
+      "resolution": 2.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase, glycolysis, gluconeogenesis",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:52.655574"
+  },
+  "1amm": {
+    "protein_id": "1amm",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.2,
+      "amino_acid_count": 174,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1amm",
+      "description": "1.2 angstrom structure of gamma-b crystallin at 150k",
+      "resolution": 1.2,
+      "structure_method": "x-ray diffraction",
+      "keywords": "eye lens protein, crystallin",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:53.374641"
+  },
+  "1mqi": {
+    "protein_id": "1mqi",
+    "meets_criteria": true,
+    "validation_info": {
+      "resolution": 1.35,
+      "amino_acid_count": 260,
+      "has_ec_number": false
+    },
+    "function_info": {
+      "id": "1mqi",
+      "description": "crystal structure of the glur2 ligand binding core (s1s2j) in complex with fluoro-willardiine at 1.35 angstroms resolution",
+      "resolution": 1.35,
+      "structure_method": "x-ray diffraction",
+      "keywords": "ionotropic glutamate receptor, glur2, ligand binding core, s1s2, partial agonist, willardiines, fluoro-willardiine, membrane protein",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:54.266409"
+  },
+  "1nsx": {
+    "protein_id": "1nsx",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 685 > 300"
+    },
+    "function_info": {
+      "id": "1nsx",
+      "description": "crystal structure of galactose mutarotase from lactococcus lactis mutant h170n complexed with galactose",
+      "resolution": 1.75,
+      "structure_method": "x-ray diffraction",
+      "keywords": "mutarotase, epimerase, galactose metabolism, isomerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:55.283221"
+  },
+  "1qmg": {
+    "protein_id": "1qmg",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 2049 > 300"
+    },
+    "function_info": {
+      "id": "1qmg",
+      "description": "acetohydroxyacid isomeroreductase complexed with its reaction product dihydroxy-methylvalerate, manganese and adp-ribose.",
+      "resolution": 1.6,
+      "structure_method": "x-ray diffraction",
+      "keywords": "oxidoreductase, branched chain amino acid biosynthesis, reaction product, manganese, adp-ribose",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:56.808353"
+  },
+  "1ggj": {
+    "protein_id": "1ggj",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 2908 > 300"
+    },
+    "function_info": {
+      "id": "1ggj",
+      "description": "crystal structure of catalase hpii from escherichia coli, asn201ala variant.",
+      "resolution": 1.92,
+      "structure_method": "x-ray diffraction",
+      "keywords": "beta barrel, alpha helical domain, flavodoxin like domain, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:58.726469"
+  },
+  "1h16": {
+    "protein_id": "1h16",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 759 > 300"
+    },
+    "function_info": {
+      "id": "1h16",
+      "description": "pyruvate formate-lyase (e.coli) in complex with pyruvate and coa",
+      "resolution": 1.53,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase, glycyl radical enzyme, transferase, acyltransferase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:00:59.958076"
+  },
+  "1hti": {
+    "protein_id": "1hti",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.8 > 2.5"
+    },
+    "function_info": {
+      "id": "1hti",
+      "description": "crystal structure of recombinant human triosephosphate isomerase at 2.8 angstroms resolution. triosephosphate isomerase related human genetic disorders and comparison with the trypanosomal enzyme",
+      "resolution": 2.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "isomerase(intramolecular oxidoreductase)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:01:00.820613"
+  },
+  "1iph": {
+    "protein_id": "1iph",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Resolution 2.8 > 2.5"
+    },
+    "function_info": {
+      "id": "1iph",
+      "description": "structure of catalase hpii from escherichia coli",
+      "resolution": 2.8,
+      "structure_method": "x-ray diffraction",
+      "keywords": "hydrogen peroxide, oxidoreductase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:01:02.594151"
+  },
+  "1jfl": {
+    "protein_id": "1jfl",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 456 > 300"
+    },
+    "function_info": {
+      "id": "1jfl",
+      "description": "crystal structure determination of aspartate racemase from an archaea",
+      "resolution": 1.9,
+      "structure_method": "x-ray diffraction",
+      "keywords": "alpha-beta structure, homo-dimer, homologous domains, isomerase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:01:03.481497"
+  },
+  "1mbz": {
+    "protein_id": "1mbz",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 990 > 300"
+    },
+    "function_info": {
+      "id": "1mbz",
+      "description": "beta-lactam synthetase with trapped intermediate",
+      "resolution": 2.47,
+      "structure_method": "x-ray diffraction",
+      "keywords": "clavulanic acid, asparagine synthetase, beta-lactam synthetase, carboxyethyl arginine, deoxyguanidinoproclavaminic acid, hydrolase",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:01:04.676668"
+  },
+  "1rcx": {
+    "protein_id": "1rcx",
+    "meets_criteria": false,
+    "validation_info": {
+      "reason": "Too long: 4720 > 300"
+    },
+    "function_info": {
+      "id": "1rcx",
+      "description": "non-activated spinach rubisco in complex with its substrate ribulose- 1,5-bisphosphate",
+      "resolution": 2.4,
+      "structure_method": "x-ray diffraction",
+      "keywords": "lyase (carbon-carbon)",
+      "ec_numbers": []
+    },
+    "evaluation_date": "2025-05-19T01:01:07.024067"
+  }
+}

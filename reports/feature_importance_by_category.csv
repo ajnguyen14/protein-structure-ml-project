@@ -1,0 +1,6 @@
+category,Total_Importance,Mean_Importance,Feature_Count
+Amino Acid Composition,0.5586,0.0279,20
+Secondary Structure,0.1534,0.0256,6
+Structural Properties,0.1399,0.014,10
+Physicochemical Properties,0.1104,0.0221,5
+Basic Properties,0.0378,0.0189,2
