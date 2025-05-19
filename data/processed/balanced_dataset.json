@@ -1,0 +1,91 @@
+{
+  "total_proteins": 33,
+  "ec_classes": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "proteins_by_ec": {
+    "1": [
+      "3ccp",
+      "1ycc",
+      "1cmt",
+      "1eno",
+      "1dhr",
+      "1vie"
+    ],
+    "2": [
+      "1hmt",
+      "1ask",
+      "1phk",
+      "1hck",
+      "1byg",
+      "1a82",
+      "1hka",
+      "1zin"
+    ],
+    "3": [
+      "1lyz",
+      "2lyz",
+      "1hen",
+      "3lyz",
+      "1bpi",
+      "1ppo",
+      "1rnt",
+      "1try",
+      "1ela",
+      "2tpi",
+      "1ios"
+    ],
+    "4": [
+      "2cab",
+      "1ca2",
+      "1ca3",
+      "1b3a",
+      "1cah",
+      "1can",
+      "1caz",
+      "1tml"
+    ]
+  },
+  "protein_ids": [
+    "3ccp",
+    "1ycc",
+    "1cmt",
+    "1eno",
+    "1dhr",
+    "1vie",
+    "1hmt",
+    "1ask",
+    "1phk",
+    "1hck",
+    "1byg",
+    "1a82",
+    "1hka",
+    "1zin",
+    "1lyz",
+    "2lyz",
+    "1hen",
+    "3lyz",
+    "1bpi",
+    "1ppo",
+    "1rnt",
+    "1try",
+    "1ela",
+    "2tpi",
+    "1ios",
+    "2cab",
+    "1ca2",
+    "1ca3",
+    "1b3a",
+    "1cah",
+    "1can",
+    "1caz",
+    "1tml"
+  ],
+  "excluded_ec5": [
+    "1thf",
+    "1tri"
+  ]
+}

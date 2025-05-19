@@ -1,0 +1,28 @@
+{
+  "representative_proteins": {
+    "1": "3ccp",
+    "2": "1hmt",
+    "3": "1lyz",
+    "4": "2cab"
+  },
+  "misclassified_proteins": [
+    [
+      "1eno",
+      "1",
+      "2",
+      "2"
+    ],
+    [
+      "1b3a",
+      "4",
+      "3",
+      "3"
+    ]
+  ],
+  "key_relationships": [
+    "Secondary structure content determines functional class",
+    "Amino acid composition reflects catalytic requirements",
+    "Structural features correlate with enzymatic mechanisms",
+    "Charge distribution important for substrate binding"
+  ]
+}

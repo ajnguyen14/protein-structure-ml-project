@@ -1,0 +1,44 @@
+feature,importance,category
+aa_G,0.08543055027020056,Amino Acid Composition
+helix_content,0.0819750058174971,Secondary Structure
+aa_C,0.07725407088701475,Amino Acid Composition
+coil_content,0.05797244807193353,Secondary Structure
+aa_H,0.04596596209689651,Amino Acid Composition
+aa_S,0.04109333817809519,Amino Acid Composition
+aa_N,0.040780282919852785,Amino Acid Composition
+aa_L,0.040644337014617914,Amino Acid Composition
+negative_charge,0.03844536956891925,Physicochemical Properties
+aa_E,0.032314567165370595,Amino Acid Composition
+polar_content,0.031101898708355544,Physicochemical Properties
+z_span,0.0300975045744771,Structural Properties
+aa_M,0.02881797189220309,Amino Acid Composition
+aa_W,0.028698194456535656,Amino Acid Composition
+buried_residue_fraction,0.027719395396996912,Structural Properties
+aa_I,0.02566169729201257,Amino Acid Composition
+molecular_weight,0.024389100487705262,Basic Properties
+avg_hydrophobicity,0.021755629750096248,Physicochemical Properties
+aa_P,0.01965332107077007,Amino Acid Composition
+surface_residue_fraction,0.019102565413941855,Structural Properties
+aa_Y,0.015158068289621233,Amino Acid Composition
+aa_Q,0.014483966063000963,Amino Acid Composition
+y_span,0.014089413797727619,Structural Properties
+sheet_content,0.013403590036776747,Secondary Structure
+sequence_length,0.013397882817770095,Basic Properties
+positive_charge,0.012866689547977851,Physicochemical Properties
+aa_F,0.012410482232740215,Amino Acid Composition
+aa_R,0.012225531140042078,Amino Acid Composition
+aa_A,0.010116877423652172,Amino Acid Composition
+ca_atom_count,0.00995921834918364,Structural Properties
+total_atoms,0.009906981277836999,Structural Properties
+compactness,0.008685103573167336,Structural Properties
+aa_T,0.00859043065095045,Amino Acid Composition
+x_span,0.008218022588008718,Structural Properties
+aa_K,0.007878408111075139,Amino Acid Composition
+max_dimension,0.0074844442811638255,Structural Properties
+aa_D,0.006591155384821757,Amino Acid Composition
+aromatic_content,0.00619122552128332,Physicochemical Properties
+aa_V,0.004823979597526899,Amino Acid Composition
+radius_of_gyration,0.004645318282180419,Structural Properties
+estimated_helix_percent,0.0,Secondary Structure
+estimated_sheet_percent,0.0,Secondary Structure
+estimated_coil_percent,0.0,Secondary Structure
